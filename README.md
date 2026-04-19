@@ -26,7 +26,6 @@ This repository contains hands-on Git and GitHub puzzles for 1st year Computer S
 - [03-merge-conflict-maze](challenges/03-merge-conflict-maze/README.md)
 - [04-tag-treasure](challenges/06-tag-treasure/README.md)
 
-
 ## Scoring (Optional)
 - Easy challenge: 10 points
 - Medium challenge: 15 points
